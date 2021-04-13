@@ -103,7 +103,7 @@ Advantage of Heroku:
 ## Output:
 After compilation you can see this type of interface. Where you can give Custom files path for prediction or Default File prediction.
 
-![alt text](https://drive.google.com/file/d/1pmyXg-CS1lq6t6N3AfxX8YvSq0y2BQUy/view?usp=sharing)
+!(![image](https://user-images.githubusercontent.com/66250589/114569670-ce959580-9c92-11eb-8ec7-8824a82e44c9.png))
 
    
    
