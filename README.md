@@ -12,9 +12,9 @@ To build a classification methodology to predict the quality of wafer sensors ba
 
 There are two classes: 
 
-+1 represents Good Wafer 
++1 represents Bad Wafer 
 
--1 represents Bad Wafer 
+-1 represents Good Wafer 
 
 ### Language Used - Python
 ### Deployed on - Heroku
@@ -99,6 +99,11 @@ Advantage of Heroku:
 #### Due to large file size . I have uploaded project code file in Google drive.
 
 #### Google Drive Link: https://drive.google.com/drive/folders/1gLVQwbhs6_bFDqTCAwbKWmnYuTw8Gie-?usp=sharing
+
+## Output:
+After compilation you can see this type of interface. Where you can give Custom files path for prediction or Default File prediction.
+
+![alt text](https://drive.google.com/file/d/1pmyXg-CS1lq6t6N3AfxX8YvSq0y2BQUy/view?usp=sharing)
 
    
    
